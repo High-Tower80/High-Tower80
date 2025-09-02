@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @High-Tower80	
-- 🌱 I’m currently learning ...Apple Shortcuts and community
-- 💞️ I’m looking to collaborate on ... beginner, career
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
